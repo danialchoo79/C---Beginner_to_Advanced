@@ -1,0 +1,1 @@
+  cout<<key.at(alphabet_position);
